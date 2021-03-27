@@ -17,3 +17,4 @@ echo "┃┃╱╭┫╭╮┃╰╯┃╭╮┃╭╯"
 echo "┃╰━╯┃╭╮┃┃┃┃╭╮┃┃"
 echo "╰━━━┻╯╰┻┻┻┻╯╰┻╯"
 echo "Bye Bye !!"
+start ess.sh
